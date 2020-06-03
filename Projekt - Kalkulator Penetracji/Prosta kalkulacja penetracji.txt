@@ -1,0 +1,22 @@
+Program ma 2 możliwosci kalkulacji orientacyjnej penetracji pocisku.
+	Prostą kalkulacje dla wczesnych pocisków AP(armor piercing) według wzoru Kruppa
+opracowanego w czasach pancerników(wczesny XX wiek). B=(V*√P)/(K*√D) gdzie B to penetracja, V - predkosc uderzenia, P - Masa Pocisku, K - Stała wytrymałości,
+D-średnica pocisku.Użytkownik w programie podaje średnice i dlugość(program sam kalkuje mase) oraz prędkość uderzenia(Pociski AP mają  Niestety wzór Kruppa podaje wynik mniejszy 
+niż w realnym życiu gdyż wpływa na to wiecej czynników aczkolwiek pocisk o podanych parametrachpowinien penetrować pancerz o podanej grubości.
+	
+	Drugim wyborem jest troche bardziej zawansowana kalkulacja pocisków APDSFS(Armor Piercing Discarding Sabot Fin Stabilized -
+Przeciwpancerny Podkalibrowy Sabot stabilizowany brzechwowo)wg wzoru Willi Odermatt'a zamiesczonego na stronie http://www.longrods.ch/peneq.php . Pociski składają sie z rdzenia(penetratora) wykonanego z gęstego materiału, głównie
+wolframu lub zubożonego uranu oraz sabota sprawiającego że mieści sie w lufie(penetrator jest o wiele mniejszy niż kaliber działa, Pocisk DM23 o kalibrze 120mm ma penetrator o 
+średnicy 27mm). Program prosi uzytkownika o podanie średnicy penetratora,dlugość całego pocisku, długośc i średnice u podstawy czubka(bryły ścietej zmniejszającej średnice czubka penetratora - 
+Penetrator wyglada jak igła - obrazek dla zrouzmienia http://www.longrods.ch/bilder/pene_def.jpg 3 - dlugość 4- średnica podstawy);do dlugosci czubka mozna wporwadzić 0 wtedy pocisk jest walcem, predkości uderzenia(musi byc wieksz niż 935m/s, 
+nie ma górnej granicy aczkolwiek w realnym życiupociski te nie są szybsze niż 2000m/s) 
+oraz twardość celu w skali brinnella(W zakresie 500-150). Domyślny cel sowiecka stal ma 240 w skali brinnella.
+Program kalkuluje pnetracje dla pocisku z wolframu.
+Tak jak wzór kruppa ten wzór mimo wiekszego zaawansowanie też nie może oddać w pelni warunków w realnym świecie ale moze być użyty tak jak
+wzór kruppa na przykład do kalkulacji pocisków w jakieś grze.
+
+
+
+
+
+
