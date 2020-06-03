@@ -11,6 +11,7 @@ wolframu lub zubożonego uranu oraz sabota sprawiającego że mieści sie w lufi
 Penetrator wyglada jak igła - obrazek dla zrouzmienia http://www.longrods.ch/bilder/pene_def.jpg 3 - dlugość 4- średnica podstawy);do dlugosci czubka mozna wporwadzić 0 wtedy pocisk jest walcem, predkości uderzenia(musi byc wieksz niż 935m/s, 
 nie ma górnej granicy aczkolwiek w realnym życiupociski te nie są szybsze niż 2000m/s) 
 oraz twardość celu w skali brinnella(W zakresie 500-150). Domyślny cel sowiecka stal ma 240 w skali brinnella.
+Im większa twardość tym ciężej jest spenetrować cel.
 Program kalkuluje pnetracje dla pocisku z wolframu.
 Tak jak wzór kruppa ten wzór mimo wiekszego zaawansowanie też nie może oddać w pelni warunków w realnym świecie ale moze być użyty tak jak
 wzór kruppa na przykład do kalkulacji pocisków w jakieś grze.
